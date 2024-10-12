@@ -5,3 +5,4 @@ terraform fmt
 terraform plan
 terraform apply   
 yes
+terraform destroy
